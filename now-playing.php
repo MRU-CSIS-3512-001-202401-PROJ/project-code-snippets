@@ -2,7 +2,7 @@ $now_playing = [
     [
         "id" => 1,
         "theatre_id" => 1,
-        "movie_id" => "10775"
+        "movie_id" => "840430"
     ],
     [
         "id" => 2,
@@ -12,12 +12,12 @@ $now_playing = [
     [
         "id" => 3,
         "theatre_id" => 1,
-        "movie_id" => "940721"
+        "movie_id" => "753342"
     ],
     [
         "id" => 4,
         "theatre_id" => 2,
-        "movie_id" => "840430"
+        "movie_id" => "10775"
     ],
     [
         "id" => 5,
